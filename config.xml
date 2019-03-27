@@ -37,6 +37,6 @@ Carrillo Osorio Jason
 <plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--Colocar Icono app-->
-<icon src="res/android/mdpi.png"/>
+<icon src="imagenes/persona_azul.png"/>
 
 </widget>
